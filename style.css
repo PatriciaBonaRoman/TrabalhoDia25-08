@@ -17,6 +17,8 @@ nav {
     margin: 10px 0;
     background-color: #f2f2f2;
     padding: 10px 0;
+    position: sticky;
+    top: 0;
 }
 
 .logo {
@@ -58,4 +60,71 @@ nav {
   background-color: #2980b9;
 }
 
+.wpp {
+    position: absolute;
+    top: 600px;
+    right: 100px;
+    height: 100px;
+    width: 100px;
+    background-color: lightblue;
+}
 
+#div1, #div2, #div3, #div4, #div5, #div6, #div7, #div8, #div9, #div10, #div11, #div12, #div13 {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+}
+
+#div1 {
+    left: 50px;
+    top: 600px;
+}
+
+#div2 {
+     left: 70px;
+    top: 600px;
+}
+#div3 {
+    left: 90px;
+    top: 600px;
+}
+#div4 {
+    left: 50px;
+    top: 600px;
+}
+#div5 {
+    left: 50px;
+    top: 600px;
+}
+#div6 {
+    left: 50px;
+    top: 600px;
+}
+#div7 {
+    left: 50px;
+    top: 600px;
+}
+#div8 {
+    left: 50px;
+    top: 600px;
+}
+#div9 {
+    left: 50px;
+    top: 600px;
+}
+#div10 {
+    left: 50px;
+    top: 600px;
+}
+#div11 {
+    left: 50px;
+    top: 600px;
+}
+#div12 {
+    left: 50px;
+    top: 600px;
+}
+#div13 {
+    left: 50px;
+    top: 600px;
+}
